@@ -1,4 +1,7 @@
-###      Olá, fico feliz em ver você aqui!! Meu nome é Pedro Sena! 😎😊😉🤗
+<div align="center">
+  <h2>  Olá, fico feliz em ver você aqui!! Meu nome é Pedro Sena! 😎😊😉🤗 </h2>
+</div>
+
 
 - 🔭 Desenvolvo projetos de RPA.
 - 🌱 Estou criando tutoriais para compartilhar o que já aprendi.
@@ -7,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/paraujosena">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraujosena&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -30,3 +33,4 @@
  
  
 </div>
+  </div>
