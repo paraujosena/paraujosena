@@ -1,5 +1,5 @@
 <div align="center">
- <h2>  Olá, fico feliz em ver você aqui!! Meu nome é Pedro Sena! 😎😊😉🤗 </h2>
+ <h2>  Olá, fico feliz em ver você aqui!! Meu nome é Pedro Sena! 😎😉 </h2>
 </div>
 
 
