@@ -3,8 +3,8 @@
 </div>
 
 
-- 🔭 Desenvolvo projetos de RPA.
-- 🌱 Estou criando tutoriais para compartilhar o que já aprendi.
+- 🔭 Sou analista desenvolvedor, com experiência em projetos de RPA.
+- 🌱 Interessado em aprender sempre mais e para compartilhar o que já aprendi que possa ajudar.
 - 👯 Procuro oportunidades para contribuir com desenvolvimento em tecnologias.
 
 <div align="center">
